@@ -1,0 +1,4 @@
+out\img029.jpg
+out\img030.jpg
+out\img031.jpg
+out\img032.jpg
